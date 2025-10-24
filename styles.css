@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #003366;
+  text-align: center;
+}
+
+header {
+  background-color: #0099cc;   /* Celeste intenso */
+  color: white;
+  padding: 20px 10px;
+}
+
+.logo {
+  width: 130px;
+  height: auto;
+}
+
+.hero {
+  background-color: #e6f7ff;   /* Celeste muy claro */
+  padding: 50px 20px;
+}
+
+footer {
+  background-color: #003366;   /* Azul oscuro */
+  color: white;
+  padding: 15px;
+  font-size: 0.9em;
+}
